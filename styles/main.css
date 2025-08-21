@@ -47,12 +47,7 @@ html {
 }
 
 .contact-link:hover {
-	border-color: #f7bc68;
 	scale: 0.9;
+	background: white;
+	color: black;
 }
-
-
-
-
-
-
